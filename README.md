@@ -1,8 +1,4 @@
 # Bienvenido
-Mucho gusto
-Bye
--Hola
--Como vas?
-Que tal?
-###### soy increible
->>>>>>> a865e06 (<!DOCTYPE html>)
+Mucho Gusto
+Este proyecto es la creación de mi primer sitio web usando HTML y TAILWIND
+###### Espero sea de tu agrado
